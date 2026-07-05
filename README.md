@@ -22,12 +22,13 @@ A RESTful Task Management API built using Django REST Framework (DRF). The API a
 ## Tech Stack
 
 - Python 3.13
-- Django 5.2
+- Django 5.2.15
 - Django REST Framework
-- SQLite
 - Simple JWT
+- SQLite
 - django-filter
-- Postman (API Testing)
+- Postman
+- Git & GitHub
 
 ---
 
@@ -181,13 +182,13 @@ Verified endpoints include:
 
 ```
 task_manager_api/
-│
 ├── accounts/
 ├── config/
 ├── tasks/
 ├── manage.py
 ├── requirements.txt
-└── README.md
+├── README.md
+└── .gitignore
 ```
 
 ---
