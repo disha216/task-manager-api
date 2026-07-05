@@ -37,7 +37,7 @@ A RESTful Task Management API built using Django REST Framework (DRF). The API a
 ### 1. Clone the repository
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/disha216/task-manager-api.git
 cd task_manager_api
 ```
 
